@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/silversavi/smartbrain/static/css/main.0e6656ba.chunk.css",
-    "main.js": "/silversavi/smartbrain/static/js/main.a34015f8.chunk.js",
-    "main.js.map": "/silversavi/smartbrain/static/js/main.a34015f8.chunk.js.map",
-    "runtime~main.js": "/silversavi/smartbrain/static/js/runtime~main.7b08a5bc.js",
-    "runtime~main.js.map": "/silversavi/smartbrain/static/js/runtime~main.7b08a5bc.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/silversavi/smartbrain/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.eb7b3746.chunk.js": "/silversavi/smartbrain/static/js/2.eb7b3746.chunk.js",
-    "static/js/2.eb7b3746.chunk.js.map": "/silversavi/smartbrain/static/js/2.eb7b3746.chunk.js.map",
-    "index.html": "/silversavi/smartbrain/index.html",
-    "precache-manifest.61cecb76f5f26a4b7b91d980b5ea0307.js": "/silversavi/smartbrain/precache-manifest.61cecb76f5f26a4b7b91d980b5ea0307.js",
-    "service-worker.js": "/silversavi/smartbrain/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/silversavi/smartbrain/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.0e6656ba.chunk.css.map": "/silversavi/smartbrain/static/css/main.0e6656ba.chunk.css.map"
+    "main.css": "/smartbrain/static/css/main.0e6656ba.chunk.css",
+    "main.js": "/smartbrain/static/js/main.40338767.chunk.js",
+    "main.js.map": "/smartbrain/static/js/main.40338767.chunk.js.map",
+    "runtime~main.js": "/smartbrain/static/js/runtime~main.e0aa727b.js",
+    "runtime~main.js.map": "/smartbrain/static/js/runtime~main.e0aa727b.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/smartbrain/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.eb7b3746.chunk.js": "/smartbrain/static/js/2.eb7b3746.chunk.js",
+    "static/js/2.eb7b3746.chunk.js.map": "/smartbrain/static/js/2.eb7b3746.chunk.js.map",
+    "index.html": "/smartbrain/index.html",
+    "precache-manifest.0a5f3601c3b84611b4321e17dcebeb0e.js": "/smartbrain/precache-manifest.0a5f3601c3b84611b4321e17dcebeb0e.js",
+    "service-worker.js": "/smartbrain/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/smartbrain/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.0e6656ba.chunk.css.map": "/smartbrain/static/css/main.0e6656ba.chunk.css.map"
   }
 }
