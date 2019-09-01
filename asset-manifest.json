@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e6656ba.chunk.css",
-    "main.js": "/static/js/main.f9f72553.chunk.js",
-    "main.js.map": "/static/js/main.f9f72553.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.ddb371ef.js",
-    "runtime~main.js.map": "/static/js/runtime~main.ddb371ef.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.eb7b3746.chunk.js": "/static/js/2.eb7b3746.chunk.js",
-    "static/js/2.eb7b3746.chunk.js.map": "/static/js/2.eb7b3746.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2d0731fa4d1881acd4e8bd4bd06ce0fe.js": "/precache-manifest.2d0731fa4d1881acd4e8bd4bd06ce0fe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.0e6656ba.chunk.css.map": "/static/css/main.0e6656ba.chunk.css.map"
+    "main.css": "/silversavi/smartbrain/static/css/main.0e6656ba.chunk.css",
+    "main.js": "/silversavi/smartbrain/static/js/main.a34015f8.chunk.js",
+    "main.js.map": "/silversavi/smartbrain/static/js/main.a34015f8.chunk.js.map",
+    "runtime~main.js": "/silversavi/smartbrain/static/js/runtime~main.7b08a5bc.js",
+    "runtime~main.js.map": "/silversavi/smartbrain/static/js/runtime~main.7b08a5bc.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/silversavi/smartbrain/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.eb7b3746.chunk.js": "/silversavi/smartbrain/static/js/2.eb7b3746.chunk.js",
+    "static/js/2.eb7b3746.chunk.js.map": "/silversavi/smartbrain/static/js/2.eb7b3746.chunk.js.map",
+    "index.html": "/silversavi/smartbrain/index.html",
+    "precache-manifest.61cecb76f5f26a4b7b91d980b5ea0307.js": "/silversavi/smartbrain/precache-manifest.61cecb76f5f26a4b7b91d980b5ea0307.js",
+    "service-worker.js": "/silversavi/smartbrain/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/silversavi/smartbrain/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.0e6656ba.chunk.css.map": "/silversavi/smartbrain/static/css/main.0e6656ba.chunk.css.map"
   }
 }
