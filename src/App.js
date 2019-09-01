@@ -10,20 +10,7 @@ import Rank from './components/Rank/Rank';
 import './App.css';
 
 import particlesOptions from './particlesjs-config.json'
-// 27.6 video juures pooleli
 
-
-/*const particlesOptions = {
-	particles: {
-		number: {
-			value: 90,
-			density: {
-				enable: true,
-				value_area: 800
-			}
-		}
-	}
-}*/
 
 const initalState = {
 	input: '',
